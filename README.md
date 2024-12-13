@@ -18,3 +18,8 @@ git checkout basicstructures
 above lines are typed inside this branch and committed using git add and commit
 
 now switch to master and merge exp2 ends  gi
+
+## exp6 is same as exp2 only addition is Merge with message
+```
+git merge basicstructures -m "merge with messgae"
+```
